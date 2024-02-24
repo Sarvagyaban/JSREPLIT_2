@@ -4,6 +4,10 @@ html, body {
 }
 
 .bulb{ 
+  height : 500px;
+  width:500px;
+  display:flex;
+  allign-item:center;
   background: orange;
 }
 
